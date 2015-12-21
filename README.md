@@ -1,4 +1,6 @@
 # express_benchmark
+* node v4.2.3
+* express 4.13.3
 
 ```
 $ node app.js
